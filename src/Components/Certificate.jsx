@@ -3,13 +3,43 @@ import React from "react";
 const TCS = [
   {
     id: 1,
-    src: "Certificate/TCS/Email-Etiqutte.jpg",
-    heading: "Email Etiqutte",
+    src: "Certificate/TCS/Business_Etiquette.jpg",
+    heading: "Business Etiquette",
   },
   {
     id: 2,
-    src: "Certificate/TCS/Interview-Skill.jpg",
+    src: "Certificate/TCS/Email_Etiquette.jpg",
+    heading: "Email Etiquette",
+  },
+  {
+    id: 3,
+    src: "Certificate/TCS/Group_Discussion.jpg",
+    heading: "Group Discussion",
+  },
+  {
+    id: 4,
+    src: "Certificate/TCS/Interview_Skills.jpg",
     heading: "Interview Skills",
+  },
+  {
+    id: 5,
+    src: "Certificate/TCS/Introduction_to_Soft_Skills.jpg",
+    heading: "Introduction to Soft Skills",
+  },
+  {
+    id: 6,
+    src: "Certificate/TCS/Presentation_Skills.jpg",
+    heading: "Presentation Skills",
+  },
+  {
+    id: 7,
+    src: "Certificate/TCS/Telephone_Etiquette.jpg",
+    heading: "Telephone Etiquette",
+  },
+  {
+    id: 8,
+    src: "Certificate/TCS/Write_Effective_Resume_and_Cover_Letter.jpg",
+    heading: "Write Effective Resume and Cover Letter",
   },
 ];
 

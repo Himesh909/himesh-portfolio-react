@@ -22,10 +22,8 @@ const Home = () => {
       <Section
         section={"section"}
         heading={"Goal"}
-        l1={
-          "My Goal is to become International Full Stack MERN Developer with CTC 10LPA as Fresher."
-        }
-        l2={"That Includes MongoDB , Express.JS, React.js and Node.js"}
+        l1={"My Goal is to become International Full Stack MERN Developer."}
+        l2={"That Includes MongoDB , Express.JS, React.js and Node.js."}
       />
       <Section
         section={""}
@@ -41,9 +39,9 @@ const Home = () => {
       />
       <SectionEducation
         heading={"Education"}
-        l1={"I completed my 10th from H.A Pandya."}
+        l1={"I completed my 10th from H.A Pandya, Ahmedabad, Gujarat"}
         l2={
-          "Currently Studying Diploma in Artificial Intelligence and Machine Learning at L.J. University (2022 - 2025)."
+          "Currently Studying Diploma in Artificial Intelligence and Machine Learning at L.J. University (2022 - 2025), Ahmedabad, Gujarat."
         }
         l3={"MarkSheets are available at Education Page."}
       />

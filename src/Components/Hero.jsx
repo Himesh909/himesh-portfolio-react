@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 const Hero = () => {
   return (
     <header className="hero">
-      <img className="hero-img" src="Images/Himesh1-1.png" />
+      <img className="hero-img" src="Images/Himesh_new.png" />
       <div className="hero-div">
         <h1 className="hero-heading">Khatri Himesh SohilKumar</h1>
         <p>
