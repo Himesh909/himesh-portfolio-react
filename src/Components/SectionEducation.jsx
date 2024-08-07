@@ -1,5 +1,4 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
 
 const SectionEducation = ({ heading, l1, l2, l3 }) => {
   return (
@@ -12,12 +11,6 @@ const SectionEducation = ({ heading, l1, l2, l3 }) => {
           <li>{l2}</li>
           <br />
           <li>{l3}</li>
-          <br />
-          <div className="container-btn">
-            <NavLink className="secondary-link ancor" to="/education">
-              Education
-            </NavLink>
-          </div>
         </ul>
       </div>
     </section>

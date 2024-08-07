@@ -20,11 +20,6 @@ const Header = () => {
               Achievements
             </NavLink>
           </li>
-          <li className="list-item-inline">
-            <NavLink className="link" to="/education">
-              Education
-            </NavLink>
-          </li>
         </ul>
       </nav>
     </>
